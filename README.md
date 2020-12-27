@@ -78,7 +78,7 @@ At least 3 cards needs to be in the Front Row
 
 #### Defense
 
-* At least 2 cards needs to be in the back row
+At least 2 cards needs to be in the back row
 
 1. Four of Kind: Gives 5 additional Health to the Nexus at the start of the game and +2 Health to the Nexus and steal -2 each Time Four of a kind survives
 2. Black Flush - with 4 cards: Gives 5 additional Health to the Nexus at the start of the game and + 2 health each time flush survives
